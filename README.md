@@ -28,7 +28,7 @@ bundle exec jekyll serve --watch
 
 ## Usage
 
-### Post
+### Post 
 
 ``` markdown
 ---

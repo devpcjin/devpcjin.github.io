@@ -1,7 +1,7 @@
 ---
 title: "Slack WeebHook"
 
-categories: [API 활용하기, Slack]
+categories: [API, Slack]
 tags: [Slack, API, Weebhook, incoming]
 
 date: 2022-11-20

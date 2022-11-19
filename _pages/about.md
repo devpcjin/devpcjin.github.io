@@ -10,8 +10,6 @@ toc_label: "About me"
 
 ## 👉 Contact
 
-📞 **Phone.**        010-4517-1765
-
 📧 **Email.**          sgn03077@gmail.com
 
 🔗 **Github.**       [https://github.com/devpcjin](https://github.com/devpcjin)

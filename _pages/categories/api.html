@@ -1,0 +1,11 @@
+---
+title: "API"
+layout: archive
+permalink: /category/api/
+---
+
+{% assign posts = site.categories["API"] %}
+
+{% for post in posts %}
+    {% include archive-single.html type=page.entries_layout %}
+{% endfor %}

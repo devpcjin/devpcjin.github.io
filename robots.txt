@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://devpcjin.github.io/sitemap.xml

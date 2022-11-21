@@ -1,5 +1,5 @@
 ---
-title: "Slack WeebHook"
+title: "Slack WebHook"
 
 categories: [API, Slack]
 tags: [Slack, API, Weebhook, incoming]

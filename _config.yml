@@ -26,7 +26,7 @@ repository               : "https://github.com/devpcjin/devpcjin.github.io" # Gi
 # 미래 게시물 허용 (시간이 안맞아서 추가)
 future                   : true
 
-
+#댓글 설정
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -35,6 +35,10 @@ comments:
 # 검색 설정
 google_site_verification : yeK0kmfYZFierzTsYOk-G9a1jZLLQGHUY3FaFFPBL38
 naver_site_verification  : 2f6b331867aa1c27c9e3dda220005802172f8f1c
+
+# 블로그 내 검색 설정
+search: true
+search_full_content: true
 
 # 블로그 접속 통계
 analytics:
@@ -159,7 +163,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-  
+
 compress_html:
   clippings: all
   ignore:
